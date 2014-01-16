@@ -1,0 +1,41 @@
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\bin\Debug\GPI.exe
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\bin\Debug\GPI.pdb
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GPI.Form1.resources
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GPI.Properties.Resources.resources
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GPI.exe
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GPI.pdb
+C:\Users\Cristian Pizarro\Desktop\GPI\GPI\obj\x86\Debug\GPI.Form2.resources
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GPI.exe
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GPI.pdb
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\bin\Debug\GPI.exe
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\bin\Debug\GPI.pdb
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GPI.Form1.resources
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GPI.Form2.resources
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GPI.Properties.Resources.resources
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Cristobal\Desktop\My Shared Folder\GPI\GPI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matias\Dropbox\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.exe
+C:\Users\Matias\Dropbox\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.pdb
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.exe
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.pdb
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\bin\Debug\GPI.exe
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\bin\Debug\GPI.pdb
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.csprojResolveAssemblyReference.cache
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Form1.resources
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Form2.resources
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Properties.Resources.resources
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.csproj.GenerateResource.Cache
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.exe
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.pdb
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\bin\Debug\GPI.exe
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\bin\Debug\GPI.pdb
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.csprojResolveAssemblyReference.cache
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Form1.resources
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Form2.resources
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Properties.Resources.resources
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.csproj.GenerateResource.Cache
+C:\Users\Nata\Desktop\Proyecto GPI\Proyecto GPI\GPI\GPI\GPI\GPI\obj\x86\Debug\GPI.Form3.resources
